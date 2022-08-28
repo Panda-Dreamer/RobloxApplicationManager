@@ -1,0 +1,20 @@
+{
+  "key": "yuRjWgs3vUXz7GMpXxStgLFBNQF6za3NvQur26tT6QRNbuXZVhaKfrgNXPaM9n9UWX5J8mtLca2dNPvuktu8yKPdcpMfPBZewtJr9G5st9MUmcD6CXdtpKgP",
+  "data": [
+    {
+      "title": "Test Boolean",
+      "type": "boolean",
+      "description": "This is a test",
+      "answer": true
+    }
+  ],
+  "player": {
+    "displayName": "Omega",
+    "age": 1440,
+    "name": "Omega77073",
+    "id": 755685077
+  },
+  "time": 1660942333,
+  "discord": { "channelId": "1009870911194808420", "guildId": "1007807710902886513" },
+  "name": "TestApp"
+}
